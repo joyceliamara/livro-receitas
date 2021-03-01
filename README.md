@@ -3,3 +3,5 @@
 	strogonoff
 
  - Strogonoff de frango
+
+ - Carne de panela
